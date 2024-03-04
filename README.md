@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Galkatiri
 - 👀 I’m interested in 3D Arts
-- 🌱 I’m currently learning Marvelous Designer
-- 💞️ I’m looking to collaborate on Game development
-- 📫 How to reach me alkatiri.ga@gmail.com
+- 🌱 Currently learning Marvelous Designer
+- 💞️ Looking to collaborate on Game development
+- 📫 alkatiri.ga@gmail.com
 
 <!---
 Galkatiri/Galkatiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
